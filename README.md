@@ -17,7 +17,7 @@ My advisor is [Wei Zhang](https://math.mit.edu/~wz2113/).
 - [arXiv:1807.10967](https://arxiv.org/abs/1807.10967):
   On roots of Wiener polynomials of trees
 
-- [arXiv:1708.07057](https://arxiv.org/1708.07057)
+- [arXiv:1708.07057](https://arxiv.org/abs/1708.07057)
   Uniform Bounds for the Number of Rational Points on Symmetric Squares of Curves with Low Mordell-Weil Rank, with Sameera Vemulapalli
 
 ## Contact
