@@ -1,6 +1,6 @@
 ## About
 
-I am a PhD student at the [MIT math department](https://math.mit.edu/)
+I am a PhD student at the [MIT math department](https://math.mit.edu/).
 My advisor is [Wei Zhang](https://math.mit.edu/~wz2113/).
 
 ## Papers
