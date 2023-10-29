@@ -3,6 +3,8 @@
 I am a PhD student at the [MIT math department](https://math.mit.edu/).
 My advisor is [Wei Zhang](https://math.mit.edu/~wz2113/).
 
+- [Download CV (PDF)](CV.pdf)
+
 ## Papers
 
 - [arXiv:2307.15234](https://arxiv.org/abs/2307.15234):
