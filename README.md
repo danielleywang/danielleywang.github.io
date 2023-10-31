@@ -1,6 +1,6 @@
 ## About
 
-I am a PhD student at the [MIT math department](https://math.mit.edu/).
+I am a PhD student at the [MIT math department](https://math.mit.edu/directory/profile.html?pid=2194).
 My advisor is [Wei Zhang](https://math.mit.edu/~wz2113/).
 
 - [Download CV (PDF)](CV.pdf)
