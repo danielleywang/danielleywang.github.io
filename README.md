@@ -1,5 +1,6 @@
 ## About
 
+I'm an NSF postdoc at Berkeley math.
 I completed my PhD at [MIT](https://math.mit.edu/directory/profile.html?pid=2194)
 under the direction of [Wei Zhang](https://math.mit.edu/~wz2113/).
 
