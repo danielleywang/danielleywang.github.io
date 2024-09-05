@@ -29,4 +29,4 @@ under the direction of [Wei Zhang](https://math.mit.edu/~wz2113/).
 
 ## Contact
 
-My email is `diwang@mit.edu`.
+My email is `daniellew@berkeley.edu`.
