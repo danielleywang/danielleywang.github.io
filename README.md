@@ -1,6 +1,6 @@
 ## About
 
-I'm an NSF postdoc at Berkeley math.
+I'm an NSF postdoc at Duke.
 I completed my PhD at [MIT](https://math.mit.edu/directory/profile.html?pid=2194)
 under the direction of [Wei Zhang](https://math.mit.edu/~wz2113/).
 
@@ -29,4 +29,4 @@ under the direction of [Wei Zhang](https://math.mit.edu/~wz2113/).
 
 ## Contact
 
-My email is `daniellew@berkeley.edu`.
+My email is `danielle.wang@duke.edu`.
