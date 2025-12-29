@@ -1,4 +1,4 @@
-# Math 401 (spring 2026)
+# Math 401 (Spring 2026)
 
 - Lectures:
 - Office hours:
