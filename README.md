@@ -7,7 +7,7 @@ My mentor is [Jayce Getz](https://sites.duke.edu/jgetz/).
 I completed my PhD at [MIT](https://math.mit.edu/directory/profile.html?pid=2194)
 under the direction of [Wei Zhang](https://math.mit.edu/~wz2113/).
 
-- [Download CV (PDF)](cv.pdf)
+- [Download CV (PDF)](/tex/cv.pdf)
 
 ## Papers
 

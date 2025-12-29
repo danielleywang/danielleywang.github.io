@@ -1,0 +1,226 @@
+\documentclass[paper=a4,fontsize=11pt]{scrartcl} % KOMA-article class
+\usepackage{amsmath,amssymb}
+\newcommand{\ZZ}{\mathbb Z}
+
+\usepackage[english]{babel}
+\usepackage[utf8x]{inputenc}
+\usepackage[protrusion=true,expansion=true]{microtype}
+\usepackage{amsmath,amsfonts,amsthm}     % Math packages
+\usepackage{graphicx}                    % Enable pdflatex
+\usepackage[svgnames]{xcolor}            % Colors by their 'svgnames'
+\usepackage{geometry}
+	\textheight=700px                    % Saving trees ;-)
+\usepackage{url}
+
+\frenchspacing              % Better looking spacings after periods
+\pagestyle{empty}           % No pagenumbers/headers/footers
+
+%%% Custom sectioning (sectsty package)
+%%% ------------------------------------------------------------
+\usepackage{sectsty}
+
+\sectionfont{%			            % Change font of \section command
+	\usefont{OT1}{phv}{b}{n}%		% bch-b-n: CharterBT-Bold font
+	\sectionrule{0pt}{0pt}{-5pt}{3pt}}
+
+%%% Macros
+%%% ------------------------------------------------------------
+\newlength{\spacebox}
+\settowidth{\spacebox}{8888888888}			% Box to align text
+\newcommand{\sepspace}{\vspace*{1em}}		% Vertical space macro
+
+\newcommand{\MyName}[1]{ % Name
+		\Huge \usefont{OT1}{phv}{b}{n} \hfill #1
+		\par \normalsize \normalfont}
+
+\newcommand{\MySlogan}[1]{ % Slogan (optional)
+		\large \usefont{OT1}{phv}{m}{n}\hfill \textit{#1}
+		\par \normalsize \normalfont}
+
+\newcommand{\NewPart}[1]{\section*{\uppercase{#1}}}
+
+\newcommand{\PersonalEntry}[2]{
+		\noindent\hangindent=2em\hangafter=0 % Indentation
+		\parbox{\spacebox}{        % Box to align text
+		\textit{#1}}		       % Entry name (birth, address, etc.)
+		\hspace{1.5em} #2 \par}    % Entry value
+
+\newcommand{\SkillsEntry}[2]{      % Same as \PersonalEntry
+		\noindent\hangindent=2em\hangafter=0 % Indentation
+		\parbox{\spacebox}{        % Box to align text
+		\textit{#1}}			   % Entry name (birth, address, etc.)
+		\hspace{1.5em} #2 \par}    % Entry value
+
+\newcommand{\EducationEntry}[4]{
+		\noindent \textbf{#1} \hfill      % Study
+		\colorbox{White}{%
+			\parbox{10em}{%
+			\hfill\color{Black}#2}} \par  % Duration
+		\noindent \textit{#3} \par        % School
+		\noindent\hangindent=2em\hangafter=0 \small #4 % Description
+		\normalsize \par}
+
+\newcommand{\WorkEntry}[4]{				  % Same as \EducationEntry
+		\noindent \textbf{#1} \hfill      % Jobname
+		\colorbox{Black}{\color{White}#2} \par  % Duration
+		\noindent \textit{#3} \par              % Company
+		\noindent\hangindent=2em\hangafter=0 \small #4 % Description
+		\normalsize \par}
+
+%\newcommand{\AwardEntry}[2]{\noindent#1 \hfill
+%		\colorbox{White}{\color{Black}#2}\par}
+
+\newcommand{\AwardEntry}[2]{#1 & #2}
+
+\newcommand{\PaperEntry}[5]{
+	\noindent#1 (#2). \textit{#3}. #4 #5.
+}
+%%% Begin Document
+%%% ------------------------------------------------------------
+\begin{document}
+% you can upload a photo and include it here...
+%\begin{wrapfigure}{l}{0.5\textwidth}
+%	\vspace*{-2em}
+%		\includegraphics[width=0.15\textwidth]{photo}
+%\end{wrapfigure}
+
+\MyName{Danielle Wang}
+\MySlogan{Curriculum Vitae}
+
+\sepspace
+
+%%% Personal details
+%%% ------------------------------------------------------------
+\NewPart{Personal details}{}
+
+\PersonalEntry{Citizenship}{USA}
+\PersonalEntry{e-mail}{\url{danielle.wang@duke.edu}}
+\PersonalEntry{Website}{\url{https://danielleywang.github.io}}
+
+%%% NOTE: Maybe I should put a new section here for appointments, and put my MSPRF and MSRI appointments in there
+%%%-------------------------------------------------------------
+\NewPart{Appointments}{}
+\EducationEntry{NSF Postdoctoral Fellow}{2024---}
+{University of California, Berkeley}
+
+%%% Education
+%%% ------------------------------------------------------------
+\NewPart{Education}{}
+
+\EducationEntry{Doctor of Philosophy}{2024}
+{Massachusetts Institute of Technology}{PhD in Mathematics from the Massachussetts Institute of Technology. Advisor: Wei Zhang.}
+\sepspace
+
+\EducationEntry{Bachelor of Science}{2019}{Massachusetts Institute of Technology}{B.S. in Mathematics from the Massachusetts Institute of Technology.}
+\sepspace
+%
+%\noindent \textbf{\underline{Math Coursework}} \par       % School
+%		\noindent\hangindent=2em\hangafter=0 \small 18.102 Intro to Functional Analysis, 18.112 Complex Analysis, 18.125 Measure Theory and Analysis, 18.217 Hyperplane Arrangements, 18.217 Graph Theory and Additive Combinatorics, 18.705 Commutative Algebra, 18.715 Intro to Representation Theory, 18.725 Algebraic Geometry I, 18.737 Algebraic Groups, 18.748 Topics in Lie Theory, 18.757 Representations of Lie Groups, 18.783 Elliptic Curves, 18.784 Seminar in Number Theory, 18.785 Number Theory I, 18.786 Number Theory II, 18.821 Project Lab in Math, 18.905 Algebraic Topology I, 18.950 Differential Geometry, 18.965 Geometry of Manifolds I. % Description
+%		\normalsize \par
+
+\NewPart{Publications and preprints}{}
+
+\PaperEntry{Wang, D.}{2023}{Twisted Gan--Gross--Prasad conjecture for unramified quadratic extensions}{\url{https://arxiv.org/abs/2307.15234}}{\emph{Submitted}}
+\sepspace
+
+\PaperEntry{Vemulapalli, S. and Wang, D.}{2021}{Uniform bounds for the number of rational points on symmetric squares of curves with low Mordell--Weil rank}{\url{https://arxiv.org/abs/1708.07057}}{\emph{Acta Arithmetica}, \textbf{199}(4) 331-359}
+\sepspace
+
+\PaperEntry{Wang, D.}{2019}{The Eulerian distribution on involutions is indeed $\gamma$-positive}{\url{https://arxiv.org/abs/1808.08481}}{\emph{Journal of Combinatorial Theory Series A}, \textbf{165} 139-151}
+%\sepspace
+\vspace*{0em}
+
+\PaperEntry{Berger, A. and Wang, D.}{2019}{Modified Erd\"os--Ginzburg--Ziv Constants for $\ZZ/n\ZZ$ and $(\ZZ/n\ZZ)^2$}{\url{https://arxiv.org/abs/1808.08486}}{\emph{Discrete Mathematics}, \textbf{342}(4) 1113-1116}
+\sepspace
+
+\PaperEntry{Wang, D.}{2019}{On roots of Wiener polynomials of trees}{\url{https://arxiv.org/abs/1807.10967}}{\emph{Discrete Mathematics},
+\textbf{343}(1) 111643}
+\sepspace
+
+\NewPart{Invited talks}{} %(seminars and conferences)}{}
+
+\begin{tabular}{@{}p{4.33in} r@{}}
+CMS Winter Meeting Automorphic forms and representation theory session & Nov 30-Dec 1, 2024\sepspace\\
+UC Davis Algebraic Geometry and Number Theory seminar & Oct 8, 2024\sepspace\\
+AMS San Antonio Special Session “L-functions and Automorphic Forms” & Sep 14-15, 2024\sepspace\\
+BIRS Workshop ``Branching Problems for Representations of Real, P-Adic and Adelic Groups''  & Jul 7-12, 2024\sepspace\\
+Texas Oklahoma Representations and Automorphic forms XIII & Apr 12-14, 2024\sepspace\\
+UT Austin Number Theory seminar & Mar 19, 2024\sepspace\\
+Johns Hopkins Junior Number Theory Days & Feb 10-11, 2024\sepspace\\
+AIM Workshop ``Arithmetic intersection theory on Shimura varieties" & Jan 8-12, 2024\sepspace\\
+Duke Number Theory Seminar & Oct 4, 2023\sepspace\\
+BC NT/RT seminar & Oct 28, 2023\sepspace\\
+Johns Hopkins Number Theory Seminar &Sep 9, 2023\sepspace\\
+Arizona Algebra and Number Theory Seminar & Mar 28, 2023\sepspace
+\end{tabular}
+
+%\begin{tabular}{p{4.6in} r}
+%July 2024 & Banff Workshop ``Branching Problems for Representations of Real, P-Adic and Adelic Groups'' \\[1em]
+%April 2024 & Texas Oklahoma Representations and Automorphic forms XII \\[1em]
+%January 2024 & AIM workshop ``Arithmetic intersection theory on Shimura varieties" \\[1em]
+%Oct 4, 2023 & Duke Number Theory Seminar \\[1em]
+%Oct 28, 2023 & BC NT/RT seminar \\[1em]
+%Sep 9, 2023 & Johns Hopkins Number Theory Seminar \\[1em]
+%Mar 28, 2023 & Arizona Algebra and Number Theory Seminar
+%\end{tabular}
+
+%\NewPart{Future Invitations}{}
+%\begin{tabular}{@{}p{4.35in} r@{}}
+%% RTG seminar? & Oct 14, 2024
+%% meth moonday do I even put it here &  Oct 21, 2024
+%\end{tabular}
+
+\NewPart{Fellowships and Awards}{}
+\begin{tabular}{@{}p{4.9in} r@{}}
+\AwardEntry{NSF Mathematical Sciences Postdoctoral Research Fellowship}{2024}\sepspace\\
+
+\AwardEntry{MSRI Lauter Graduate Fellow}{2023}\sepspace\\
+
+\AwardEntry{Alice T. Schafer Prize Runner-Up}{2019}\sepspace\\
+
+\AwardEntry{NSF Graduate Fellowship}{2019}\sepspace\\
+
+\AwardEntry{MIT Presidential Fellow}{2019}\sepspace\\
+
+\AwardEntry{William Lowell Putnam Competition N1}{2018}\sepspace\\
+
+\AwardEntry{Elizabeth Lowell Putnam Award}{2015, 2018}\sepspace\\
+
+\AwardEntry{USA Mathematical Olympiad (USAMO) Winner}{2015}\sepspace
+\end{tabular}
+
+%%% Work experience
+%%% ------------------------------------------------------------
+\NewPart{Teaching and work experience}{}
+\EducationEntry{Teaching Assistant}{Fall 2023}{18.510}{Graded for the class 18.510 Intro to Mathematical Logic and Set Theory at MIT during Fall 2023}
+\sepspace
+
+\EducationEntry{Teaching Assistant}{Fall 2022}{18.02}{Taught recitation for the introductory class 18.02 Multivariable Calculus at MIT during Fall 2022.}
+\sepspace
+
+\EducationEntry{Study Group Leader (Virtual)}{Mar 5 -- 9 2022}{Arizona Winter School}{Led a virtual study group during the 2022 Arizona Winter School on automorphic forms beyond $\operatorname{GL}_2$.}
+%a five day long conference aimed at graduate students,
+%with lecture series by leading experts, problem sessions, and projects on a set of closely related topics.
+\sepspace
+
+\EducationEntry{Mentor}{January 2022}{Directed Reading Program}{Mentored a pair of undergraduate students for the Directed Reading Program
+offered by the MIT math department.}
+\sepspace
+
+\EducationEntry{Mentor}{June -- August 2020}{UROP+}{Mentored a student in a combinatorics research project for UROP+, an undergraduate research program offered by the MIT math department.}
+\sepspace
+
+\EducationEntry{Teaching Assistant}{June 2016, 2018, 2019}{Math Olympiad Summer Program}{Graded for the Math Olympiad Summer Program, the training camp for the USA International Math Olympiad (IMO) team.}
+\sepspace
+
+\EducationEntry{Instructor}{July -- August 2017}{A-Star Summer Math Camp}{Taught the Pre-MathCounts class at the A-Star Summer Math Camp in 2017.}
+\sepspace
+
+\EducationEntry{Instructor}{December 2015}{A-Star Winter Math Camp}{Taught the USAMO/USAJMO class at the A-Star Winter Math Camp in 2015.}
+%%% Skills
+%%% ------------------------------------------------------------
+
+%%% References
+%%% ------------------------------------------------------------
+
+\end{document}
