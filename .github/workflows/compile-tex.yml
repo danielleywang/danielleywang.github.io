@@ -67,16 +67,6 @@ jobs:
           source: ./
           destination: ./_site
 
-      - name: Copy PDFs to site output
-        run: |
-          # Copy all PDFs from tex/ directory to _site/tex/
-          if [ -d "tex" ]; then
-            mkdir -p _site/tex
-            find tex -name "*.pdf" -type f -exec cp {} _site/tex/ \;
-            echo "PDFs copied to _site/tex/"
-            ls -la _site/tex/ || true
-          fi
-
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
 
