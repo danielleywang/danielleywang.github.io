@@ -11,6 +11,9 @@ under the direction of [Wei Zhang](https://math.mit.edu/~wz2113/).
 
 ## Papers
 
+- [arXiv:2509.16356](https://arxiv.org/abs/2509.16356):
+  Central values of Asai L-functions and twisted Gan-Gross-Prasad conjecture, with Weixiao Lu and Zhiyu Zhang.
+
 - [arXiv:2307.15234](https://arxiv.org/abs/2307.15234):
   Twisted Gan-Gross-Prasad conjecture for unramified quadratic extensions.
 
