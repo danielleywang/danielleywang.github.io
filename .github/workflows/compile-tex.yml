@@ -27,50 +27,36 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: Detect changed TeX files
-        id: changed-tex
+      - name: Restore LaTeX cache
+        uses: actions/cache@v4
+        with:
+          path: tex/
+          key: latex-build-${{ github.sha }}
+          restore-keys: |
+            latex-build-
+
+      - name: Install LaTeX
         run: |
-          # Check if tex directory exists and has .tex files
-          if [ -d "tex" ] && [ -n "$(find tex -name '*.tex' -type f)" ]; then
-            if [ "${{ github.event_name }}" == "workflow_dispatch" ]; then
-              # Manual trigger: compile all .tex files
-              CHANGED_FILES=$(find tex -name "*.tex" -type f | tr '\n' ' ')
-            else
-              # Get files changed in this push
-              CHANGED_FILES=$(git diff --name-only ${{ github.event.before }} ${{ github.sha }} | grep "^tex/.*\.tex$" | tr '\n' ' ' || echo "")
-
-              # If no before commit (first push), compile all
-              if [ "${{ github.event.before }}" == "0000000000000000000000000000000000000000" ]; then
-                CHANGED_FILES=$(find tex -name "*.tex" -type f | tr '\n' ' ')
-              fi
-            fi
-
-            echo "Changed TeX files: $CHANGED_FILES"
-
-            if [ -n "$CHANGED_FILES" ]; then
-              echo "has_files=true" >> $GITHUB_OUTPUT
-              echo "files=$CHANGED_FILES" >> $GITHUB_OUTPUT
-            else
-              echo "has_files=false" >> $GITHUB_OUTPUT
-            fi
-          else
-            echo "has_files=false" >> $GITHUB_OUTPUT
-          fi
-
-      - name: Compile changed LaTeX documents
-        if: steps.changed-tex.outputs.has_files == 'true'
-        run: |
-          # Install LaTeX
           sudo apt-get update
           sudo apt-get install -y texlive-latex-base texlive-latex-extra texlive-fonts-recommended texlive-fonts-extra latexmk
 
-          # Compile each changed .tex file
-          for texfile in ${{ steps.changed-tex.outputs.files }}; do
-            echo "Compiling $texfile..."
-            cd $(dirname "$texfile")
-            latexmk -pdf -interaction=nonstopmode $(basename "$texfile") || echo "Warning: Compilation of $texfile had issues"
-            cd - > /dev/null
-          done
+      - name: Compile LaTeX documents
+        run: |
+          # Check if tex directory exists and has .tex files
+          if [ -d "tex" ] && [ -n "$(find tex -name '*.tex' -type f)" ]; then
+            cd tex
+            # Run latexmk on all .tex files
+            # latexmk will intelligently skip files that are up-to-date
+            for texfile in *.tex; do
+              if [ -f "$texfile" ]; then
+                echo "Processing $texfile..."
+                latexmk -pdf -interaction=nonstopmode "$texfile" || echo "Warning: Compilation of $texfile had issues"
+              fi
+            done
+            cd ..
+          else
+            echo "No .tex files found in tex/ directory"
+          fi
 
       - name: Setup Pages
         uses: actions/configure-pages@v4
