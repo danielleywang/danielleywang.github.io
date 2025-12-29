@@ -9,6 +9,10 @@ under the direction of [Wei Zhang](https://math.mit.edu/~wz2113/).
 
 - [Download CV (PDF)](/tex/cv.pdf)
 
+## Teaching
+
+- [Math 401 (Spring 2026)](math401-sp26.md)
+
 ## Papers
 
 - [arXiv:2509.16356](https://arxiv.org/abs/2509.16356):
@@ -32,10 +36,6 @@ under the direction of [Wei Zhang](https://math.mit.edu/~wz2113/).
 - [arXiv:1708.07057](https://arxiv.org/abs/1708.07057):
   Uniform Bounds for the Number of Rational Points on Symmetric Squares of Curves with Low Mordell-Weil Rank, with Sameera Vemulapalli.
   _Acta Arithmetica_, **199**(4) 331-359.
-
-## Teaching
-
-- [Math 401 (Spring 2026)](math401-sp26.md)
 
 ## Contact
 
