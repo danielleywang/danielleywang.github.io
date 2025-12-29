@@ -30,7 +30,15 @@ jobs:
       - name: Restore LaTeX cache
         uses: actions/cache@v4
         with:
-          path: tex/
+          path: |
+            tex/**/*.pdf
+            tex/**/*.aux
+            tex/**/*.fdb_latexmk
+            tex/**/*.fls
+            tex/**/*.out
+            tex/**/*.toc
+            tex/**/*.bbl
+            tex/**/*.blg
           key: latex-build-${{ github.sha }}
           restore-keys: |
             latex-build-
