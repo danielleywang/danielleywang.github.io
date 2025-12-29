@@ -43,25 +43,12 @@ jobs:
           restore-keys: |
             latex-build-
 
-      - name: Install LaTeX
-        run: |
-          sudo apt-get update
-          sudo apt-get install -y texlive-latex-base texlive-latex-extra texlive-fonts-recommended texlive-fonts-extra latexmk
-
       - name: Compile LaTeX documents
         run: |
-          # Check if tex directory exists and has .tex files
           if [ -d "tex" ] && [ -n "$(find tex -name '*.tex' -type f)" ]; then
-            cd tex
-            # Run latexmk on all .tex files
-            # latexmk will intelligently skip files that are up-to-date
-            for texfile in *.tex; do
-              if [ -f "$texfile" ]; then
-                echo "Processing $texfile..."
-                latexmk -pdf -interaction=nonstopmode "$texfile" || echo "Warning: Compilation of $texfile had issues"
-              fi
-            done
-            cd ..
+            # Use xu-cheng/texlive-full Docker image
+            docker run --rm -v $(pwd)/tex:/workdir ghcr.io/xu-cheng/texlive-full:latest \
+              /bin/bash -c "cd /workdir && for f in *.tex; do [ -f \"\$f\" ] && latexmk -pdf -interaction=nonstopmode \"\$f\" || true; done"
           else
             echo "No .tex files found in tex/ directory"
           fi
