@@ -1,0 +1,99 @@
+\documentclass[11pt]{article}
+
+\usepackage{amssymb}
+\usepackage{xcolor}
+\usepackage{todonotes}
+\usepackage[margin=1.25in]{geometry}
+
+\newcommand{\ZZ}{\mathbb Z}
+
+\usepackage{amsthm}
+\theoremstyle{definition}
+\newtheorem{problem}{Problem}
+\newtheorem*{bonus}{Bonus problem (not graded)}
+
+\usepackage[inline,shortlabels]{enumitem}
+
+\begin{document}
+
+\section*{Math 401 Problem Set 1 (due January 16, 2026)}
+When you upload your work to Gradescope, please
+select the pages corresponding to each problem.
+
+At the top of your submission, write ``sources
+consulted:'' and list all sources you used while working
+on this problem set. If none, write ``none.''
+
+\bigskip
+
+\begin{problem}
+  Let $a$, $b$, $c$ be integers, not all zero.
+  We define $\gcd(a, b, c)$ to be the largest integer
+  which divides all of $a$, $b$, $c$.
+
+  Prove that if $\gcd(a,b,c)=1$,
+  then there exist integers $x$, $y$, $z$ such that $ax+by+cz=1$.
+\end{problem}
+
+\begin{problem}
+  Let $G$ be a group.
+  In this problem we'll fill in some of the proofs omitted from the lecture.
+  \begin{enumerate}[(a)]
+    \item The group axioms guarantee that for every element $a$,
+    there is an inverse $b$ satisfying $ab = ba = 1$.
+    Show that the inverse promised by this axiom is \emph{unique}:
+    that if $ab = ba = 1$ and $ab' = b'a = 1$, then $b = b'$.
+    This justifies the notation ``$a^{-1}$'' and referring to it as ``the'' inverse.
+
+    \item Prove that $(ab)^{-1} = b^{-1} a^{-1}$.
+  \end{enumerate}
+\end{problem}
+
+\begin{problem}
+  For each of the following sets and operations,
+  determine whether they form a valid group.
+  For yes, briefly explain why each axiom is true (in some cases ``it's obvious'' is acceptable). For no, specify which axiom fails and briefly explain why.
+  \begin{enumerate}[(a)]
+  \item The set of positive real numbers, under multiplication.
+  \item The set of $2 \times 2$ real symmetric matrices
+  with nonzero determinant, under multiplication.
+  \item The set of $2 \times 2$ matrices with integer entries and
+  nonzero determinant, under multiplication.
+  \item The set of $2 \times 2$ matrices with integer entries and
+  determinant equal to $1$, under multiplication.
+  \item The set of odd decimal digits $\{1,3,5,7,9\}$,
+  where $a \ast b$ is the last decimal digit of $ab$.
+  \end{enumerate}
+\end{problem}
+
+\begin{problem}
+  How many elements of order $2$ are there in each of these groups?
+  (Note that $1013$ is prime.)
+
+  \begin{enumerate*}[(a)]
+    \item $\ZZ/24\ZZ$.
+    \item $\ZZ/25\ZZ$.
+    \item $(\ZZ/1013\ZZ)^\times$.
+  \end{enumerate*}
+\end{problem}
+
+\begin{problem}
+  Let $G = S_7$, $g = (1 \; 2)(3 \; 4)$
+  and $h = (1 \; 2 \; 3 \; 4 \; 5 \; 6 \; 7)$.
+  Compute the orders of $gh$ and $hg$.
+\end{problem}
+
+\begin{problem}
+  How many subgroups does $\ZZ/7\ZZ \times D_2$?
+  (Note: $D_2$ is the dihedral group of order $4$.)
+\end{problem}
+
+\begin{bonus}
+  Let $p$ be an odd prime. Prove that $p$ divides $(p-1)!+1$.
+\end{bonus}
+
+\begin{bonus}
+  Let $n > 1$ be a positive integer. Prove that $n$ does not divide $2^n - 1$.
+\end{bonus}
+
+\end{document}
