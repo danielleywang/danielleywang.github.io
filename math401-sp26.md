@@ -8,11 +8,9 @@
 
 ## Syllabus
 
-See [syllabus document](math401-sp26-syllabus.md).
+See [syllabus document](syllabus.pdf).
 
 ## Problem sets
-
-- [Problem set 1](/tex/math401-sp26-ps1.pdf)
 
 ## Exam information
 
