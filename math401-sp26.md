@@ -14,8 +14,6 @@ See [syllabus document](syllabus.pdf).
 
 - [Problem set 1](401/pset1.pdf) due Jan 16
 
-## Exam information
-
 ## Schedule
 
 - Jan 7: (2.3, 2.7, 2.9) [notes](401/lec1upload.pdf)
