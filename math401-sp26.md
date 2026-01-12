@@ -17,4 +17,5 @@ See [syllabus document](syllabus.pdf).
 ## Schedule
 
 - Jan 7: (2.3, 2.7, 2.9) [notes](401/lec1upload.pdf)
-- Jan 12: (1.5, 2.1-2.4, 2.11)
+- Jan 12: (1.5, 2.1-2.4, 2.11) [notes](401/lec2upload.pdf)
+- Jan 14: (Dihedral group, 2.5-2.6, 2.11)
