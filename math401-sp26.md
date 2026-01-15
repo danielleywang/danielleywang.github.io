@@ -19,4 +19,5 @@ Here are [notes](401/401lec.pdf) which will be updated as we progress.
 
 - Jan 7: (2.3, 2.7, 2.9)
 - Jan 12: (1.5, 2.1-2.4, 2.11)
-- Jan 14: (Dihedral group, 2.5-2.6, 2.11)
+- Jan 14: (Dihedral group, 2.5-2.6)
+- Jan 21: (2.8, 2.11)
