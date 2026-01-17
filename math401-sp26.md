@@ -13,6 +13,7 @@ See [syllabus document](syllabus.pdf).
 ## Problem sets
 
 - [Problem set 1](401/pset1.pdf) due Jan 16
+- [Problem set 2](401/pset2.pdf) due Jan 23
 
 ## Schedule
 Here are [notes](401/401lec.pdf) which will be updated as we progress.
