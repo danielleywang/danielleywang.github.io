@@ -14,11 +14,13 @@ See [syllabus document](syllabus.pdf).
 
 - [Problem set 1](401/pset1.pdf) due Jan 16
 - [Problem set 2](401/pset2.pdf) due Jan 23
+- [Problem set 3](401/pset3.pdf) due Jan 30
 
 ## Schedule
 Here are [notes](401/401lec.pdf) which will be updated as we progress.
 
-- Jan 7: (2.3, 2.7, 2.9)
-- Jan 12: (1.5, 2.1-2.4, 2.11)
-- Jan 14: (Dihedral group, 2.5-2.6)
-- Jan 21: (2.8, 2.11)
+- Jan 7: 2.3, 2.7, 2.9
+- Jan 12: 1.5, 2.1 - 2.4, 2.11
+- Jan 14: Dihedral group, 2.5, 2.6
+- Jan 21: 2.8, 2.11
+- Jan 26: 2.10, 2.12
