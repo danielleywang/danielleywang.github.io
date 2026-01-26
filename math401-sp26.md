@@ -16,6 +16,11 @@ See [syllabus document](syllabus.pdf).
 - [Problem set 2](401/pset2.pdf) due Jan 23
 - [Problem set 3](401/pset3.pdf) due Jan 30
 
+## Exam information
+
+- Midterm 1: Monday, February 9
+- Midterm 2: Monday, March 30
+
 ## Schedule
 Here are [notes](401/401lec.pdf) which will be updated as we progress.
 
