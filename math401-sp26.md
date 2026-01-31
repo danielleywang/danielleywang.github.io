@@ -18,8 +18,11 @@ See [syllabus document](syllabus.pdf).
 
 ## Exam information
 
-- Midterm 1: Monday, February 9
-- Midterm 2: Monday, March 30
+Midterm 1: Monday, February 9
+- [Practice exam 1](401/exam1review.pdf) 
+- [Solutions to bonus problems](401/bonussol1.pdf)
+
+Midterm 2: Monday, March 30
 
 ## Schedule
 Here are [notes](401/401lec.pdf) which will be updated as we progress.
