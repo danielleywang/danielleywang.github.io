@@ -18,7 +18,7 @@ See [syllabus document](syllabus.pdf).
 
 ## Midterm 1
 Monday, February 9
-- [Practice exam 1](401/exam1review.pdf) 
+- [Practice exam 1](401/exam1review.pdf), [Solutions](401/practice1sol.pdf) to practice exam 1
 - [Solutions](401/bonussol1.pdf) to bonus problems from psets 1-3
 
 ## Midterm 2 
