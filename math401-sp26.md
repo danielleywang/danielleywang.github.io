@@ -36,3 +36,4 @@ Here are [notes](401/401lec.pdf) which will be updated as we progress.
 - Jan 28: 2.10, 6.7, 6.8
 - Feb 2: 6.9, Burnside's lemma, 6.11
 - Feb 4: 7.1, 7.2, 7.3
+- Feb 11: 7.5
