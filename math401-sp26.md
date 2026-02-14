@@ -37,3 +37,5 @@ Here are [notes](401/401lec.pdf) which will be updated as we progress.
 - Feb 2: 6.9, Burnside's lemma, 6.11
 - Feb 4: 7.1, 7.2, 7.3
 - Feb 11: 7.4, 7.5, conjugacy classes in A_5
+- Feb 16: 7.7 Applications of Sylow theorems
+- Feb 18: 6.10, 7.6, 7.7 Proof of Sylow theorems
