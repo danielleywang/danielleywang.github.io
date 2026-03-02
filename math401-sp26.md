@@ -43,3 +43,5 @@ Here are [notes](401/401lec.pdf) which will be updated as we progress.
 - Feb 18: 6.10, 7.6, 7.7 Proof of Sylow theorems
 - Feb 23: 11.1, 11.2, 11.3
 - Feb 25: 11.3, 11.4
+- Mar 2: 11.4, 11.5, 11.6
+- Mar 4: 11.7, 11.8
