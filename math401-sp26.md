@@ -46,3 +46,5 @@ Here are [notes](401/401lec.pdf) which will be updated as we progress.
 - Feb 25: 11.3, 11.4
 - Mar 2: 11.4, 11.5, 11.6
 - Mar 4: 11.7, 11.8
+- Mar 16: 11.8, prime ideals
+- Mar 18: 12.1, 12.2
