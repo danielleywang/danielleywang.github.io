@@ -19,6 +19,7 @@ See [syllabus document](syllabus.pdf).
 - [Problem set 5](401/pset5.pdf) due Feb 23 (Monday)
 - [Problem set 6](401/pset6.pdf) due Mar 2 (Monday)
 - [Problem set 7](401/pset7.pdf) due Mar 9 (Monday)
+- [Problem set 8](401/pset8.pdf) due Mar 20 (Friday)
 
 ## Midterm 1
 Monday, February 9
