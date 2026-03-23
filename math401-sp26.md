@@ -49,3 +49,4 @@ Here are [notes](401/401lec.pdf) which will be updated as we progress.
 - Mar 4: 11.7, 11.8
 - Mar 16: 11.8, prime ideals
 - Mar 18: 12.1, 12.2
+- Mar 23: 12.3
