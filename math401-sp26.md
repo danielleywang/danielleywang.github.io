@@ -29,6 +29,7 @@ Monday, February 9
 ## Midterm 2 
 Monday, March 30
 - [Practice exam 2](401/exam2review.pdf)
+- [Solutions](401/bonussol2.pdf) to bonus problems from psets 5-8
 
 ## Schedule
 Here are [notes](401/401lec.pdf) which will be updated as we progress.
