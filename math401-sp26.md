@@ -51,3 +51,4 @@ Here are [notes](401/401lec.pdf) which will be updated as we progress.
 - Mar 16: 11.8, prime ideals
 - Mar 18: 12.1, 12.2
 - Mar 23: 12.3
+- Mar 25: 14.1, 14.2, 14.7 Statement of structure theorem
