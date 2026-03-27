@@ -20,6 +20,7 @@ See [syllabus document](syllabus.pdf).
 - [Problem set 6](401/pset6.pdf) due Mar 2 (Monday)
 - [Problem set 7](401/pset7.pdf) due Mar 9 (Monday)
 - [Problem set 8](401/pset8.pdf) due Mar 20 (Friday)
+- [Problem set 9](401/pset9.pdf) due Apr 3 (Friday)
 
 ## Midterm 1
 Monday, February 9
@@ -53,3 +54,4 @@ Here are [notes](401/401lec.pdf) which will be updated as we progress.
 - Mar 18: 12.1, 12.2
 - Mar 23: 12.3
 - Mar 25: 14.1, 14.2, 14.7 Statement of structure theorem
+- Apr 3: 15.1, 15.2, 15.3
