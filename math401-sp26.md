@@ -54,4 +54,10 @@ Here are [notes](401/401lec.pdf) which will be updated as we progress.
 - Mar 18: 12.1, 12.2
 - Mar 23: 12.3
 - Mar 25: 14.1, 14.2, 14.7 Statement of structure theorem
-- Apr 3: 15.1, 15.2, 15.3
+- Apr 1: 15.1, 15.2, 15.3
+- Apr 6: 15.4, 15.6, 15.7
+- Apr 8: 15.8, 16.1, 16.2
+- Apr 13: 16.4, 16.5, 16.6
+- Apr 15: 16.7, 16.8
+- Apr 20: 
+- Apr 22:
