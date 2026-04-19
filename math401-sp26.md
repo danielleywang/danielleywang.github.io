@@ -61,5 +61,5 @@ Here are [notes](401/401lec.pdf) which will be updated as we progress.
 - Apr 8: 15.8, 16.1, 16.2
 - Apr 13: 16.4, 16.5, 16.6
 - Apr 15: 16.7, 16.8
-- Apr 20: 
-- Apr 22:
+- Apr 20: 16.8, 16.9, 16.10
+- Apr 22: 16.11, 16.12
