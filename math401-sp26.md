@@ -37,7 +37,7 @@ Monday, March 30
 ## Final Exam
 Friday, May 1
 - [Galois theory review](401/galoistheoryreview.pdf), [Solutions](401/practice3sol.pdf) to practice problems
-- [Solutions](401/bonussol3pdf) to bonus problems from psets 9-11 + additional info
+- [Solutions](401/bonussol3.pdf) to bonus problems from psets 9-11 + additional info
 
 ## Schedule
 Here are [notes](401/401lec.pdf) which will be updated as we progress.
