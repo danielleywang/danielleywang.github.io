@@ -10,11 +10,6 @@
 
 See [syllabus document](syllabus.pdf).
 
-## Final Exam
-Friday, May 1
-- [Galois theory review](401/galoistheoryreview.pdf), [Solutions](401/practice3sol.pdf) to practice problems
-- [Solutions](401/bonussol3.pdf) to bonus problems from psets 9-11 + additional info
-
 ## Problem sets
 
 - [Problem set 1](401/pset1.pdf) due Jan 16
@@ -38,6 +33,11 @@ Monday, February 9
 Monday, March 30
 - [Practice exam 2](401/exam2review.pdf), [Solutions](401/practice2sol.pdf) to practice exam 2
 - [Solutions](401/bonussol2.pdf) to bonus problems from psets 5-8
+
+## Final Exam
+Friday, May 1
+- [Galois theory review](401/galoistheoryreview.pdf), [Solutions](401/practice3sol.pdf) to Galois theory practice problems, but the final will cover material from the whole semester.
+- [Solutions](401/bonussol3.pdf) to bonus problems from psets 9-11 + additional info
 
 ## Schedule
 Here are [notes](401/401lec.pdf) which will be updated as we progress.
