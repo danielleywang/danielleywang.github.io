@@ -2,6 +2,6 @@
 
 ## Syllabus
 
-## Exam Information
+## Exam information
 
 ## Schedule
