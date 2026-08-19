@@ -9,6 +9,10 @@ under the direction of [Wei Zhang](https://math.mit.edu/~wz2113/).
 
 - [Download CV (PDF)](/tex/cv.pdf)
 
+## Teaching
+
+- [Math 221D (Fall 2026)](math221d-fa26.md)
+
 ## Papers
 
 - [arXiv:2509.16356](https://arxiv.org/abs/2509.16356):
