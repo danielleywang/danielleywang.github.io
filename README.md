@@ -9,10 +9,6 @@ under the direction of [Wei Zhang](https://math.mit.edu/~wz2113/).
 
 - [Download CV (PDF)](/tex/cv.pdf)
 
-## Teaching
-
-- [Math 401 (Spring 2026)](math401-sp26.md)
-
 ## Papers
 
 - [arXiv:2509.16356](https://arxiv.org/abs/2509.16356):
