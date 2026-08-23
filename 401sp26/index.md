@@ -25,21 +25,28 @@ See [syllabus document](syllabus.pdf).
 - [Problem set 11](pset11.pdf) due Apr 22 (Wednesday)
 
 ## Midterm 1
+
 Monday, February 9
+
 - [Practice exam 1](exam1review.pdf), [Solutions](practice1sol.pdf) to practice exam 1
 - [Solutions](bonussol1.pdf) to bonus problems from psets 1-3
 
-## Midterm 2 
+## Midterm 2
+
 Monday, March 30
+
 - [Practice exam 2](exam2review.pdf), [Solutions](practice2sol.pdf) to practice exam 2
 - [Solutions](bonussol2.pdf) to bonus problems from psets 5-8
 
 ## Final Exam
+
 Friday, May 1
+
 - [Galois theory review](galoistheoryreview.pdf), [Solutions](practice3sol.pdf) to Galois theory practice problems, but the final will cover material from the whole semester.
 - [Solutions](bonussol3.pdf) to bonus problems from psets 9-11 + additional info
 
 ## Schedule
+
 Here are [notes](401lec.pdf) which will be updated as we progress.
 
 - Jan 7: 2.3, 2.7, 2.9
