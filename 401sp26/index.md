@@ -12,35 +12,35 @@ See [syllabus document](syllabus.pdf).
 
 ## Problem sets
 
-- [Problem set 1](401/pset1.pdf) due Jan 16
-- [Problem set 2](401/pset2.pdf) due Jan 23
-- [Problem set 3](401/pset3.pdf) due Jan 30
-- [Problem set 4](401/pset4.pdf) due Feb 13
-- [Problem set 5](401/pset5.pdf) due Feb 23 (Monday)
-- [Problem set 6](401/pset6.pdf) due Mar 2 (Monday)
-- [Problem set 7](401/pset7.pdf) due Mar 9 (Monday)
-- [Problem set 8](401/pset8.pdf) due Mar 20 (Friday)
-- [Problem set 9](401/pset9.pdf) due Apr 3 (Friday)
-- [Problem set 10](401/pset10.pdf) due Apr 10 (Friday)
-- [Problem set 11](401/pset11.pdf) due Apr 22 (Wednesday)
+- [Problem set 1](pset1.pdf) due Jan 16
+- [Problem set 2](pset2.pdf) due Jan 23
+- [Problem set 3](pset3.pdf) due Jan 30
+- [Problem set 4](pset4.pdf) due Feb 13
+- [Problem set 5](pset5.pdf) due Feb 23 (Monday)
+- [Problem set 6](pset6.pdf) due Mar 2 (Monday)
+- [Problem set 7](pset7.pdf) due Mar 9 (Monday)
+- [Problem set 8](pset8.pdf) due Mar 20 (Friday)
+- [Problem set 9](pset9.pdf) due Apr 3 (Friday)
+- [Problem set 10](pset10.pdf) due Apr 10 (Friday)
+- [Problem set 11](pset11.pdf) due Apr 22 (Wednesday)
 
 ## Midterm 1
 Monday, February 9
-- [Practice exam 1](401/exam1review.pdf), [Solutions](401/practice1sol.pdf) to practice exam 1
-- [Solutions](401/bonussol1.pdf) to bonus problems from psets 1-3
+- [Practice exam 1](exam1review.pdf), [Solutions](practice1sol.pdf) to practice exam 1
+- [Solutions](bonussol1.pdf) to bonus problems from psets 1-3
 
 ## Midterm 2 
 Monday, March 30
-- [Practice exam 2](401/exam2review.pdf), [Solutions](401/practice2sol.pdf) to practice exam 2
-- [Solutions](401/bonussol2.pdf) to bonus problems from psets 5-8
+- [Practice exam 2](exam2review.pdf), [Solutions](practice2sol.pdf) to practice exam 2
+- [Solutions](bonussol2.pdf) to bonus problems from psets 5-8
 
 ## Final Exam
 Friday, May 1
-- [Galois theory review](401/galoistheoryreview.pdf), [Solutions](401/practice3sol.pdf) to Galois theory practice problems, but the final will cover material from the whole semester.
-- [Solutions](401/bonussol3.pdf) to bonus problems from psets 9-11 + additional info
+- [Galois theory review](galoistheoryreview.pdf), [Solutions](practice3sol.pdf) to Galois theory practice problems, but the final will cover material from the whole semester.
+- [Solutions](bonussol3.pdf) to bonus problems from psets 9-11 + additional info
 
 ## Schedule
-Here are [notes](401/401lec.pdf) which will be updated as we progress.
+Here are [notes](401lec.pdf) which will be updated as we progress.
 
 - Jan 7: 2.3, 2.7, 2.9
 - Jan 12: 1.5, 2.1-2.4, 2.11

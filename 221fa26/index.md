@@ -11,7 +11,7 @@
 
 ## Syllabus
 
-See [syllabus document](221fa26syllabus.pdf).
+See [syllabus document](syllabus.pdf).
 
 ## Homework
 
