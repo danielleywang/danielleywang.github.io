@@ -1,4 +1,6 @@
 theme: jekyll-theme-minimal
+plugins:
+  - jekyll-redirect-from
 title: Danielle Wang
 description: I love bunnies.
 logo: bunbun.jpeg

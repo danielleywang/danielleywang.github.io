@@ -1,3 +1,8 @@
+---
+redirect_from:
+  - /math401-sp26.html
+---
+
 # Math 401 (Spring 2026)
 
 - Lectures: MW 11:45am-1pm, Gross Hall 304B

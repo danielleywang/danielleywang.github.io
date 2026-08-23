@@ -1,3 +1,8 @@
+---
+redirect_from:
+  - /math221d-fa26.html
+---
+
 # Math 221D (Fall 2026)
 
 - Lectures: MW 8:30am-9:45am, Physics 259
