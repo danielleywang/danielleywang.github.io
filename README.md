@@ -11,7 +11,7 @@ under the direction of [Wei Zhang](https://math.mit.edu/~wz2113/).
 
 ## Teaching
 
-- [Math 221D (Fall 2026)](/221fa26/)
+- [Math 221D (Fall 2026)](/221dfa26/)
 
 ## Papers
 
