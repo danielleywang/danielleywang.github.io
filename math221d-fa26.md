@@ -2,13 +2,28 @@
 
 - Lectures: MW 8:30am-9:45am, Physics 259
 - Discussion section: F 8:30am-9:45am, Physics 047
-- Office hours: TBA
+- Office hours
+  - Danielle's OH: Mon 10am-11am, Wed 3pm-4pm, Physics 274E
+  - Alina's OH: TBA
 - Textbook: _Linear Algebra: A Geometric Approach_ (2nd Ed.) by Theodore Shifrin and Malcolm Adams
 - Email: `danielle.wang@duke.edu`
 - [Gradescope](https://www.gradescope.com/courses/1359240)
 
 ## Syllabus
 
+See [syllabus document](221fa26syllabus.pdf).
+
+## Homework
+
+Problem sets will be posted on [Gradescope](https://www.gradescope.com/courses/1359240), and will usually be due on Wednesdays.
+
 ## Exam information
 
+- Midterm 1: Friday, October 2
+- Midterm 2: Friday, November 6
+- Final: Sunday, December 13
+
 ## Schedule
+
+- Aug 24: 1.1
+- Aug 26: 1.2, 1.3
