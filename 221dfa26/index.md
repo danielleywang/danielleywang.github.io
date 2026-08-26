@@ -10,6 +10,9 @@ redirect_from:
 - Office hours
   - Danielle's OH: Mon 10am-11am, Wed 3pm-4pm, Physics 274E
   - Alina's OH: TBA
+  - Math helproom for 221:
+    Mon 7pm-9pm in Classroom Building 136;
+    Tue 7pm-9pm, Wed 7pm-9pm, Thu 7pm-9pm in Physics 274J
 - Textbook: _Linear Algebra: A Geometric Approach_ (2nd Ed.) by Theodore Shifrin and Malcolm Adams
 - Email: `danielle.wang@duke.edu`
 - [Gradescope](https://www.gradescope.com/courses/1359240)
