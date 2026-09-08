@@ -37,3 +37,4 @@ Problem sets will be posted on [Gradescope](https://www.gradescope.com/courses/1
 - Aug 26: 1.2, 1.3
 - Aug 31: 1.3, 1.4 Matrices and (reduced) echelon form
 - Sep 2: 1.4 Gaussian elimination, 1.5
+- Sep 9: 1.5, 1.6.1, 2.1
