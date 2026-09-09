@@ -23,7 +23,7 @@ See [syllabus document](syllabus.pdf).
 
 ## Homework
 
-Problem sets will be posted on [Gradescope](https://www.gradescope.com/courses/1359240), and will usually be due on Wednesdays.
+Problem sets will be posted on [Gradescope](https://www.gradescope.com/courses/1359240), and will usually be due on Thursdays.
 
 ## Exam information
 
