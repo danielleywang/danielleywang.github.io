@@ -8,7 +8,7 @@ redirect_from:
 - Lectures: MW 8:30am-9:45am, Physics 259
 - Discussion section: F 8:30am-9:45am, Physics 047
 - Office hours
-  - Danielle's OH: Mon 10am-11am, Wed 3pm-4pm, Physics 274E
+  - Danielle's OH: Mon 10am-11am, Wed 10am-11am, Physics 274E
   - Alina's OH: Thu 5pm-7pm, Gross Hall 304B
   - Math helproom for 221:
     Mon 7pm-9pm in Classroom Building 136;
