@@ -9,7 +9,7 @@ redirect_from:
 - Discussion section: F 8:30am-9:45am, Physics 047
 - Office hours
   - Danielle's OH: Mon 10am-11am, Wed 10am-11am, Physics 274E
-  - Alina's OH: Thu 5pm-7pm, Gross Hall 304B
+  - Alina's OH: Thu 5pm-7pm, Gross Hall 351
   - Math helproom for 221:
     Mon 7pm-9pm in Classroom Building 136;
     Tue 7pm-9pm, Wed 7pm-9pm, Thu 7pm-9pm in Physics 274J
