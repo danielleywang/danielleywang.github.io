@@ -42,5 +42,5 @@ Problem sets will be posted on [Gradescope](https://www.gradescope.com/courses/1
 - Sep 11: Quiz 2 [solutions](quiz2sol.pdf)
 - Sep 14: 2.1, 2.2 Linear transformations
 - Sep 16: 2.2.1 Matrix of a linear transformation, 2.3
-- Sep 21: 2.3, 2.4 Elementary matrices
-- Sep 23: 2.4.1 LU decomposition, 2.5
+- Sep 21: 2.3
+- Sep 23: 2.4, 2.5
