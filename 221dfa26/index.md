@@ -37,10 +37,11 @@ Problem sets will be posted on [Gradescope](https://www.gradescope.com/courses/1
 - Aug 26: 1.2, 1.3
 - Aug 31: 1.3, 1.4 Matrices and (reduced) echelon form
 - Sep 2: 1.4 Gaussian elimination, 1.5
-- Sep 4: Quiz 1 [solutions](quiz1sol.pdf)
+- Sep 4: [Quiz 1](quiz1.pdf), [solutions](quiz1sol.pdf)
 - Sep 9: 1.5, 1.6.1
-- Sep 11: Quiz 2 [solutions](quiz2sol.pdf)
+- Sep 11: [Quiz 2](quiz2.pdf), [solutions](quiz2sol.pdf)
 - Sep 14: 2.1, 2.2 Linear transformations
 - Sep 16: 2.2.1 Matrix of a linear transformation, 2.3
+- Sep 18: [Quiz 3](quiz3.pdf)
 - Sep 21: 2.3
 - Sep 23: 2.4, 2.5
