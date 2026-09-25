@@ -28,7 +28,8 @@ Problem sets will be posted on [Gradescope](https://www.gradescope.com/courses/1
 ## Exam information
 
 - Midterm 1: Friday, October 2
-  - Sections 1.1-2.3, [review problems for Midterm 1](review1.pdf)
+  - Sections 1.1-2.3
+  - [Review problems for Midterm 1](review1.pdf)
 - Midterm 2: Friday, November 6
 - Final: Sunday, December 13
 
