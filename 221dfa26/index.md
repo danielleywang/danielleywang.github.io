@@ -47,3 +47,5 @@ Problem sets will be posted on [Gradescope](https://www.gradescope.com/courses/1
 - Sep 18: [Quiz 3](quiz3.pdf), [solutions](quiz3sol.pdf)
 - Sep 21: 2.3
 - Sep 23: 2.4, 2.5
+- Sep 25: [Quiz 4](quiz4.pdf)
+- Sep 28: 2.5, 3.1
