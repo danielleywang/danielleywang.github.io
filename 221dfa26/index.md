@@ -52,3 +52,5 @@ Problem sets will be posted on [Gradescope](https://www.gradescope.com/courses/1
 - Sep 30: Midterm review
 - Oct 5: 3.2, 3.3 Linear independence
 - Oct 7: 3.3
+- Oct 14: 3.4
+- Oct 19: 3.6
