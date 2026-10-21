@@ -54,4 +54,5 @@ Problem sets will be posted on [Gradescope](https://www.gradescope.com/courses/1
 - Oct 7: 3.3
 - Oct 14: 3.4
 - Oct 19: 3.4, 3.6
-- Oct 21: 3.6 Inner product spaces, 4.1
+- Oct 21: 3.6 Inner product spaces, 4.1 Projections
+- Oct 26: 4.1 Least squares, 4.2
