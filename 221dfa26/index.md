@@ -52,6 +52,7 @@ Problem sets will be posted on [Gradescope](https://www.gradescope.com/courses/1
 - Sep 30: Midterm review
 - Oct 5: 3.2, 3.3 Linear independence
 - Oct 7: 3.3
+- Oct 9: [Quiz 5](quiz5.pdf)
 - Oct 14: 3.4
 - Oct 19: 3.4, 3.6
 - Oct 21: 3.6 Inner product spaces, 4.1 Projections
