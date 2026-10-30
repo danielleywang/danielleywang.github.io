@@ -31,6 +31,8 @@ Problem sets will be posted on [Gradescope](https://www.gradescope.com/courses/1
   - Sections 1.1-2.3
   - [Review problems for Midterm 1](review1.pdf)
 - Midterm 2: Friday, November 6
+  - Sections 2.4-4.2
+  - [Review problems for Midterm 2](review2.pdf)
 - Final: Sunday, December 13
 
 ## Schedule
