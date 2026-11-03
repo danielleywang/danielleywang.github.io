@@ -63,3 +63,4 @@ Problem sets will be posted on [Gradescope](https://www.gradescope.com/courses/1
 - Oct 28: 4.3
 - Oct 30: [Quiz 7](quiz7.pdf)
 - Nov 2: 4.3 Similar matrices, 4.4 Isomorphisms, matrix of a linear transformation
+- Nov 4: Midterm review
