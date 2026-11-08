@@ -65,3 +65,4 @@ Problem sets will be posted on [Gradescope](https://www.gradescope.com/courses/1
 - Nov 2: 4.3 Similar matrices, 4.4 Isomorphisms, matrix of a linear transformation
 - Nov 4: Midterm review
 - Nov 9: 4.4 Kernel and image, Lagrange Interpolation (Theorem 3.6.4), 5.1
+- Nov 11: 5.1, 5.2
